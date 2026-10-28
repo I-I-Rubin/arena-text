@@ -1,5 +1,7 @@
 # GLOSSARIO
 
+(Roberto Fineschi)
+
 È noto il detto "traduttore-traditore"; valido in genere, esso assume rilevanza particolare nel caso di Marx e peculiarmente in relazione al Capitale. Il suo stile è, infatti, quello di uno scienziato, se non di un erudito, che però si compiace della sua esperienza di pubblicista. Il suo linguaggio ne risente ed accosta il rigore dello sviluppo sistematico al sarcasmo polemico, il lessico strettamente dialettico alla battuta salace, le geometrie linguistiche del tedesco filosofico allo slang poliglotta. Difficile rendere tutto ciò in una traduzione.
 
 Si è cercato di fare il possibile per la vivacità dello stile. In relazione alle problematiche più strettamente scientifiche, è parso necessario dedicare alcune pagine alla spiegazione della traduzione di alcuni termini chiave. Le scelte fatte in questa nuova edizione si legano, infatti, ai problemi emersi dal confronto fra le traduzioni esistenti e le problematiche metodologiche sviluppatesi parallelamente alla pubblicazione della nuova edizione storico-critica.
